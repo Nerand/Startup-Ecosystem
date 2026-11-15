@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+data/
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+test-results/
+playwright-report/
+*.webm
+*.mp4
+!docs/demo.mp4
+.DS_Store
